@@ -1,59 +1,31 @@
-## Introduction
+The starter project uses the `default.css` file to assign colours to the variables. The existing colours use a greyscale scheme. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+![The default colour palette showing 5 shades of grey.](images/greyscale.png)
 
-### What you will make
+**Choose** Change the colour codes in `default.css` to the colours you would like to use in your mood board. Your mood board colours will update as you update them.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+**Tip:** You can use [coolors.co](https://coolors.co){:target="_blank"} to generate and customise colour palettes then update your colour codes in `deault.css`.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
-
---- collapse ---
+--- code ---
 ---
-title: What you will need
----
-### Hardware
-
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
+language: html
+filename: default.css
+line_numbers: true
+line_number_start: 4
+line_highlights: 5-14
 ---
 
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
+:root {
+  --primary: #bccad0;
+  --onprimary:#4f4e4e;
+  --secondary: #495054;
+  --onsecondary:#ffffff;
+  --tertiary:#747474;
+  --ontertiary: #ffffff;
+  --page:#ffffff;
+  --onpage:#000000;
+  --detail: #9ba8ae;
+  --detail2: #000000;
+}
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+--- /code ---
