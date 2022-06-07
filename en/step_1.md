@@ -4,7 +4,7 @@ The starter project uses the `default.css` file to assign colours to the variabl
 
 **Choose** Change the colour codes in `default.css` to the colours you would like to use in your web page. Your web page colours will update as you update them.
 
-**Tip:** You can use [coolors.co](https://coolors.co){:target="_blank"} to generate and customise colour palettes then update your colour codes in `deault.css`.
+**Tip:** You can use [coolors.co](https://coolors.co){:target="_blank"} to generate and customise colour palettes then update your colour codes in `default.css`.
 
 --- code ---
 ---
