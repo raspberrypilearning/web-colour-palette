@@ -1,10 +1,10 @@
-The starter project uses the `default.css` file to assign colours to the variables. The existing colours use a greyscale scheme.
+El proyecto inicial utiliza el archivo `default.css` para asignar colores a las variables. Los colores existentes utilizan un esquema de escala de grises.
 
 ![The default colour palette showing five shades of grey.](images/greyscale.png)
 
-**Choose**: Change the colour codes in `default.css` to the colours you would like to use in your webpage. Your webpage colours update as you change the colour codes.
+**Elegir**: Cambia los códigos de color en `default.css` por los colores que deseas utilizar en tu página web. Los colores de tu página web se actualizan a medida que cambias los códigos de color.
 
-**Tip**: You can use [coolors.co](https://coolors.co){:target="_blank"} to generate and customise colour palettes and then update your colour codes in `default.css`.
+**Sugerencia**: Puedes usar [coolors.co](https://coolors.co){:target="_blank"} para generar y personalizar paletas de colores y luego actualizar tus códigos de color en `default.css`.
 
 ## --- code ---
 
